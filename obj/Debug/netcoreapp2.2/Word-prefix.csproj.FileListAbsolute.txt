@@ -1,0 +1,11 @@
+/home/mustafaa/Desktop/mstf55/Word-prefix/bin/Debug/netcoreapp2.2/Word-prefix.deps.json
+/home/mustafaa/Desktop/mstf55/Word-prefix/bin/Debug/netcoreapp2.2/Word-prefix.runtimeconfig.json
+/home/mustafaa/Desktop/mstf55/Word-prefix/bin/Debug/netcoreapp2.2/Word-prefix.runtimeconfig.dev.json
+/home/mustafaa/Desktop/mstf55/Word-prefix/bin/Debug/netcoreapp2.2/Word-prefix.dll
+/home/mustafaa/Desktop/mstf55/Word-prefix/bin/Debug/netcoreapp2.2/Word-prefix.pdb
+/home/mustafaa/Desktop/mstf55/Word-prefix/obj/Debug/netcoreapp2.2/Word-prefix.csprojAssemblyReference.cache
+/home/mustafaa/Desktop/mstf55/Word-prefix/obj/Debug/netcoreapp2.2/Word-prefix.csproj.CoreCompileInputs.cache
+/home/mustafaa/Desktop/mstf55/Word-prefix/obj/Debug/netcoreapp2.2/Word-prefix.AssemblyInfoInputs.cache
+/home/mustafaa/Desktop/mstf55/Word-prefix/obj/Debug/netcoreapp2.2/Word-prefix.AssemblyInfo.cs
+/home/mustafaa/Desktop/mstf55/Word-prefix/obj/Debug/netcoreapp2.2/Word-prefix.dll
+/home/mustafaa/Desktop/mstf55/Word-prefix/obj/Debug/netcoreapp2.2/Word-prefix.pdb
