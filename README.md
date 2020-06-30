@@ -1,5 +1,5 @@
 # Word-Prefix
-An algoritm to find following statistic by analyzing string in format "SomethingSomehowSomeoneSomewhatsomewhere".
+An algoritm to find following statistics by analyzing string in format "SomethingSomehowSomeoneSomewhatsomewhere".
 
 How many of each letter are in the the string,
 How many letters are capitalized in the string,
